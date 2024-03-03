@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --black-haze-50: #f8fafc;
+    --black-haze-100: #e9eff5;
+    --black-haze-200: #cedde9;
+    --black-haze-300: #a3c1d6;
+    --black-haze-400: #729fbe;
+    --black-haze-500: #5083a7;
+    --black-haze-600: #3d698c;
+    --black-haze-700: #325572;
+    --black-haze-800: #2d495f;
+    --black-haze-900: #293e51;
+    --black-haze-950: #1b2836;
+}
+
+*{
+    scroll-behavior: smooth;
+}
